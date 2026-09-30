@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+python-dotenv
+passlib[bcrypt]
+bcrypt<4.0.0
+python-jose
+smartapi-python
+pyotp
+redis
+pytest
+pytest-asyncio
+httpx
